@@ -2,6 +2,8 @@
 
 Este é um projeto de detecção de línguas utilizando redes neurais. O modelo foi treinado para classificar texto de linguas estrajeiras como africaner, inglês e holandês.
 
+![Animation](gifteste.gif)
+
 ## Como Executar o Projeto
 
 Siga os passos abaixo para configurar e executar o projeto no seu ambiente local.
@@ -43,7 +45,7 @@ source env/bin/activate
 ```
 
 ### Instalação dos pacotes
-Com o ambiente virtual ativado, instale os pacotes.
+Com o ambiente virtual ativado, instale os pacotes. (esta étapa demora alguns minutos)
 ```bash
 pip install -r requeriments.txt
 ```
